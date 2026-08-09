@@ -63,8 +63,8 @@ python main.py
 
 ## 📽️ Demo Video
 
-👉 (Add your LinkedIn video link here)
-
+👉 
+(https://www.linkedin.com/posts/gounder-priyanka-811108290_machinelearning-computervision-artificialintelligence-activity-7449845375294775296-eTqz?utm_source=share&utm_medium=member_android&rcm=ACoAAEZ-xo0BWC1mT99bk_Ve4NgbFM8W6Fm8JJA)
 ---
 
 ## 📂 Project Structure
